@@ -20,9 +20,11 @@ $` `$
 
 
 ## Уравнение с угловым коэффицентом
+
 <details> 
 <summary>Уравнение с угловым коэффицентом</summary>
 
+$` `$
 
 $` y = kx + b `$ 
 
@@ -33,6 +35,10 @@ $` y-y_0 = k(x-x_0) `$
 
 </details>
 
+<details>
+<summary>Критические задачи</summary>
+</details>
+
 ## Общее уравнение прямой
 <details>
 <summary>Общее уравнение прямой</summary>
@@ -41,6 +47,10 @@ $` Ax + By + C = 0 `$
 
 </details>
 
+
+<details>
+<summary>Критические задачи</summary>
+</details>
 
 ## Направляющий вектор прямой
 <details>
@@ -56,6 +66,12 @@ $` \vec{p}(p_1; p_2) `$
 $` \frac{x - x_0}{p_1} = \frac{y-y_0}{p_2} `$
 </details>
 
+
+<details>
+<summary>Критические задачи</summary>
+</details>
+
+
 ## Уравнение по двум точкам
 <details> 
 <summary> Уравнение по двум точкам</summary>
@@ -64,10 +80,47 @@ $` \frac{x-x_1}{x_2-x_1} = \frac{y - y_1}{y_2 - y_1} `$
 </details>
 
 
+<details>
+<summary>Критические задачи</summary>
+</details>
+
 ## Вектор нормали прямой (гормальный вектор)
+
+
+<details>
+<summary>Вектор нормали прямой</summary>
+</details>
+
+<details>
+<summary>Критические задачи</summary>
+</details>
 
 ## Уравнение прямой по точке и вектору нормали
 
+<details>
+<summary>Уравнение прямой по точке и вектору нормали</summary>
+</details>
+
+<details>
+<summary>Критические задачи</summary>
+</details>
+
 ## Уравнение прямой в отрезках
 
+<details>
+<summary>Уравнение прямой в отрезках</summary>
+</details>
+
+<details>
+<summary>Критические задачи</summary>
+</details>
+
 ## Уравнение прямой в параметрической форме
+
+<details>
+<summary>Уравнение прямой в параметрической форме</summary>
+</details>
+
+<details>
+<summary>Критические задачи</summary>
+</details>
