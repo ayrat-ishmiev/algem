@@ -202,7 +202,10 @@ $`n_1(x-x_0) + n_2(y-y_0)=0 `$
 
 $` \cos{\alpha} · x + \cos{\beta} · y + \cos{\gamma} · z - p `$
 
-Где $` \vec{n} (\cos{\alpha} , \cos{\beta} , \cos{\gamma}) `$
+Где $` \vec{n} (\cos{\alpha} , \cos{\beta} , \cos{\gamma}) `$ , есть единичный вектор нормали, отложенный от начала координат
+
+Углы $` \alpha , \beta , \gamma `$ это углы, которые образует вектор нормали $`\vec{n}`$ с осями Ox, Oy, Oz соответственно. 
+
 </details>
 
 <details>
