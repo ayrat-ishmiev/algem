@@ -196,10 +196,13 @@ $`n_1(x-x_0) + n_2(y-y_0)=0 `$
 
 <details>
 <summary>Вектор нормали плоскости (нормальный вектор)</summary>
+
+
 Нормальное уравнение плоскости задаётся с помощью формулы:
 
 $` \cos{\alpha} · x + \cos{\beta} · y + \cos{\gamma} · z - p `$
-  
+
+Где $` \vec{n} (\cos{\alpha} , \cos{\beta} , \cos{\gamma}) `$
 </details>
 
 <details>
